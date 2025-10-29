@@ -185,6 +185,6 @@ Do whatever you want with this code. MIT License or public domain, your choice.
 
 ## Questions?
 
-This is part of my [30 for 30 challenge](link-to-your-blog) - building 30 tools in 30 days.
+This is part of my [30 for 30 challenge]([https://jdookeran.medium.com/build-30-for-30-day-02-git-diff-explainer-115cbe62329e]) - building 30 tools in 30 days.
 
 Found a bug? Have a suggestion? Open an issue or just yell at me on Twitter.
